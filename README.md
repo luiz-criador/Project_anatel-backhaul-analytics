@@ -86,4 +86,4 @@ transformo isso em dados para priorizar onde investir em expansão.
 
 ## 👤 Autor
 **Luiz Carlos** — Profissional de TI em transição para Análise de Dados
-LinkedIn: [adicione] • GitHub: [adicione]
+LinkedIn: [[https://www.linkedin.com/in/devluiiz/)] • GitHub: [[https://github.com/luiz-criador]
